@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Si utilizas este resumen o te basas en la Teoría Pura de la Estadística, por favor cita el trabajo original como se detalla a continuación."
+authors:
+  - family-names: "Valenzuela Nuche"
+    given-names: "Matías Augusto"
+title: "Elementos para una teoría pura de la estadística"
+version: "1.0.0-draft"
+doi: "10.5281/zenodo.18077617"
+date-released: "2025-10-01"
+url: "https://zenodo.org/records/18077617"
+keywords:
+  - "Teoría Pura de la Estadística"
+  - "TPE"
+  - "Matías Valenzuela"
+  - "Estadística Teórica"
+  - "Filosofía de la Estadística"
+  - "Ciencia Formal"
+license: "CC-BY-NC-ND-4.0"
